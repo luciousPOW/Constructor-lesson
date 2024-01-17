@@ -1,1 +1,1 @@
-# Constructor-lesson
+# Constructor (Beginner friendly)
